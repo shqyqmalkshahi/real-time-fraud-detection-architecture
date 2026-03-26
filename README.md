@@ -42,6 +42,10 @@ The system processes transaction streams in real time, applies anomaly detection
 - `.pptx` → Architecture design presentation
 
 ---
+##  Project Presentation
+
+Watch the full video here:  
+https://drive.google.com/file/d/1AnBc-QT6RcSO3voQYvrGHaok2zjLxln5/view?usp=sharing
 
 ##  Author
 Shaghayegh Malekshahi
